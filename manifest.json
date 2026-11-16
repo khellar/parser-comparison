@@ -1,0 +1,51 @@
+{
+  "schema": "parser-learning-report/v1",
+  "date": "2026-11-16",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2433,
+      "sha256": "a1c5d1bee156c05b522e14537ecdfb36ccd573d2417ef491af8cbc7a320d83b4"
+    },
+    {
+      "path": "scorecard.md",
+      "bytes": 2494,
+      "sha256": "5a00d91fdf550553362b2dbdc55c3eae8edfd847ea412db22867aec89f0a6ad4"
+    },
+    {
+      "path": "manual-agent-brief.md",
+      "bytes": 2691,
+      "sha256": "3fb6585a07940304e68d6a208270f2dc09915b7d668ba0574f2055132e0c932c"
+    },
+    {
+      "path": "comparison.md",
+      "bytes": 13691,
+      "sha256": "e82a3a84fcbdee42b10f9a05e8180b3169f48742f7aa2a70cb3511d03ff82fcc"
+    },
+    {
+      "path": "inheritance-recommendations.md",
+      "bytes": 16609,
+      "sha256": "145cbc50fc32f28d8eb464f29accb2d4514dad29194ee017c51e5b3c74161a0e"
+    },
+    {
+      "path": "evidence-notes.md",
+      "bytes": 6231,
+      "sha256": "c21e9df598dd671441031ad5291cd493d99919308ee3c3a8390381be385fdd12"
+    },
+    {
+      "path": "aggregate-results.json",
+      "bytes": 1458,
+      "sha256": "5a6f8eba1eda8270030dff29de6420e4e0a6ade29e408d3afa93aa614918f115"
+    },
+    {
+      "path": "parser-scorecard.pdf",
+      "bytes": 66655,
+      "sha256": "e5614f77e23958d21164bc1d91bf55452404bfc1e95bcc938fb2b224411baec4"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1064,
+      "sha256": "e62a4ff57e055abc68e7326241c898f234cc59f76574404104419406d4976a4e"
+    }
+  ]
+}

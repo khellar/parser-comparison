@@ -1,0 +1,66 @@
+{
+  "evidence_date": "2026-11-16",
+  "new_study": {
+    "conversations": 24,
+    "turns": 57,
+    "parser_clerk": {
+      "release": "2.7.9",
+      "manual": "v10.6",
+      "explicit": {
+        "correct": 249,
+        "total": 344
+      },
+      "qualified": {
+        "correct": 6,
+        "total": 91
+      },
+      "safeguards": {
+        "violations": 2,
+        "total": 83
+      }
+    },
+    "template_parser": {
+      "commit": "24e37182e64a20981d423ed1d851da6de5e3b3e8",
+      "mode": "sentence-by-sentence",
+      "explicit": {
+        "correct": 162,
+        "total": 344
+      },
+      "qualified": {
+        "correct": 5,
+        "total": 91
+      },
+      "safeguards": {
+        "violations": 3,
+        "total": 83
+      }
+    }
+  },
+  "older_study": {
+    "complete": false,
+    "scored_case_slots": 233,
+    "scheduled_case_slots": 315,
+    "parser_clerk": {
+      "release": "2.7.3",
+      "manual": "v10.3",
+      "correct": 88,
+      "wrong": 3,
+      "no_eligible_answer": 322,
+      "total": 413
+    },
+    "template_parser": {
+      "correct": 96,
+      "wrong": 5,
+      "no_eligible_answer": 312,
+      "total": 413
+    }
+  },
+  "relative_explicit_retention_increase_percent": 53.70370370370371,
+  "explicit_difference_percentage_points": 25.290697674418606,
+  "limitations": [
+    "Selected small sample",
+    "Correlated point occurrences",
+    "Different study versions",
+    "Full underlying records not in public packet"
+  ]
+}
